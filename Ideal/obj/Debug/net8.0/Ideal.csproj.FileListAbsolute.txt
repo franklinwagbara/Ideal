@@ -1,0 +1,14 @@
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Ideal\Ideal\bin\Debug\net8.0\Ideal.exe
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Ideal\Ideal\bin\Debug\net8.0\Ideal.deps.json
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Ideal\Ideal\bin\Debug\net8.0\Ideal.runtimeconfig.json
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Ideal\Ideal\bin\Debug\net8.0\Ideal.dll
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Ideal\Ideal\bin\Debug\net8.0\Ideal.pdb
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Ideal\Ideal\obj\Debug\net8.0\Ideal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Ideal\Ideal\obj\Debug\net8.0\Ideal.AssemblyInfoInputs.cache
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Ideal\Ideal\obj\Debug\net8.0\Ideal.AssemblyInfo.cs
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Ideal\Ideal\obj\Debug\net8.0\Ideal.csproj.CoreCompileInputs.cache
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Ideal\Ideal\obj\Debug\net8.0\Ideal.dll
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Ideal\Ideal\obj\Debug\net8.0\refint\Ideal.dll
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Ideal\Ideal\obj\Debug\net8.0\Ideal.pdb
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Ideal\Ideal\obj\Debug\net8.0\Ideal.genruntimeconfig.cache
+C:\Users\Franklin Wagbara\Documents\Turing\Task1\Ideal\Ideal\obj\Debug\net8.0\ref\Ideal.dll
